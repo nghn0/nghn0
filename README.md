@@ -25,13 +25,6 @@ I am a passionate developer and AI enthusiast focused on building practical appl
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-* **Real-Time Emotion Detection:** Developed a Deep Learning model using **CNN, SE-Attention, and Vision Transformers (ViT)** for high-accuracy facial expression recognition.
-* **Flask Full-Stack Apps:** Built various web applications featuring secure **User Authentication**, **SQLAlchemy** database integration, and responsive UI.
-* **Web Scraping & APIs:** Experienced in automating data extraction and integrating third-party APIs into Python environments.
 
 ---
 
