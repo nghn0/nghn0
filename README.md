@@ -14,14 +14,14 @@ I am a passionate developer and AI enthusiast focused on building practical appl
 > **I'm a firm believer in open-source. You can find all my projects, source code, and detailed documentation right here on my profile.**
 
 #### 🤖 Artificial Intelligence & Computer Vision
-* **[Real-Time Emotion Detection](https://github.com/your-username/repo-name):** A Deep Learning system utilizing **CNN, SE-Attention, and Vision Transformers (ViT)** for high-accuracy facial expression recognition.
-* **[Skyrim Voice-Activated Chatbot](https://github.com/your-username/repo-name):** An immersive real-time chatbot for Skyrim, integrating **NLP** and **TTS/STT** technologies for dynamic in-game interaction.
-* **[QR Code Detection System](https://github.com/your-username/repo-name):** A robust Computer Vision project optimized for real-time scanning and data extraction.
+* **[Real-Time Emotion Detection](LINK):** Facial expression recognition using **CNN, SE-Attention, and ViT**.
+* **[Skyrim Voice Chatbot](LINK):** Immersive in-game interaction powered by **NLP and TTS/STT**.
+* **[QR Code System](LINK):** High-speed scanning and data extraction using **Computer Vision**.
 
 #### 🌐 Full-Stack & Systems
-* **[Flask Enterprise Applications](https://github.com/your-username/repo-name):** Web apps featuring secure **User Authentication**, **SQLAlchemy** ORM, and responsive **Bootstrap** frontends.
-* **[IoT & Hardware (ESP32)](https://github.com/your-username/repo-name):** Portable electronics projects focused on battery-powered IoT solutions and sensor integration.
-* **[Quantum Computing Simulations](https://github.com/your-username/repo-name):** Implementing algorithms like Grover's using **Qiskit** to explore the future of computation.
+* **[Flask Web Apps](LINK):** Secure, database-driven applications with **SQLAlchemy and Bootstrap**.
+* **[IoT & ESP32](LINK):** Battery-optimized hardware projects and **sensor integration**.
+* **[Quantum Simulations](LINK):** Exploring quantum algorithms like Grover's using **Qiskit**.
 
 🚀 **[View My Complete Projects Repository]([Paste your main repo link here])**
 
