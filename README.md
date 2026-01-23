@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Nithish Gowda H N! 👋
 
-<!--
-**nghn0/nghn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/3rd--Year-B.Tech%20CSE%20(AI%20%26%20ML)-blue?style=flat-square" alt="Education">
+  <img src="https://img.shields.io/badge/Focus-Real--World%20AI%20%26%20Full--Stack-green?style=flat-square" alt="Focus">
+</p>
 
-Here are some ideas to get you started:
+I am a passionate developer and AI enthusiast focused on building practical applications with clean UI and robust backends. I specialize in Python-driven solutions, ranging from database-integrated web apps to advanced Deep Learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ Tech Stack
+
+**Languages & Web Development**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**AI, Machine Learning & Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+* **Real-Time Emotion Detection:** Developed a Deep Learning model using **CNN, SE-Attention, and Vision Transformers (ViT)** for high-accuracy facial expression recognition.
+* **Flask Full-Stack Apps:** Built various web applications featuring secure **User Authentication**, **SQLAlchemy** database integration, and responsive UI.
+* **Web Scraping & APIs:** Experienced in automating data extraction and integrating third-party APIs into Python environments.
+
+---
+
+### 🔗 Let's Connect!
+
+<p align="left">
+<a href="[Paste your LinkedIn link here]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nithish Gowda" height="30" width="40" /></a>
+<a href="[Paste your repo link here]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Nithish Gowda" height="30" width="40" /></a>
+</p>
+
+---
+*“Building the future, one line of code at a time.”*
