@@ -13,22 +13,79 @@ I am a passionate developer and AI enthusiast focused on building practical appl
 ### 📂 Featured Portfolio
 > **I'm a firm believer in open-source. You can find all my projects, source code, and detailed documentation right here on my profile.**
 
-| Category | Projects | Short Description |
-|----------|----------|------------------|
-| 🤖 AI & Computer Vision | **[Loomera](https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website)** | AI silk type + texture classification with Grad-CAM + e-commerce. |
-|  | **[Emojify](https://github.com/nghn0/Emojify)** | Real-time emotion detection with CNN + ViT and emoji reactions. |
-|  | **[SolarCycle Analysis & Prediction](https://github.com/nghn0/SolarCycle-analysis_and_prediction)** | Sunspot cycle analysis and SSN forecasting using LSTM. |
-|  | **[QR Code Detection (YOLOv8)](https://github.com/nghn0/qr_code_detection)** | QR detection using YOLOv8 with labeled dataset pipeline. |
-|  | **[Sentient NPC](https://github.com/nghn0/Sentient-NPC)** | Offline voice NPC chatbot using STT → Transformer → TTS. |
-| 🌐 Full-Stack Web Apps | **[AI Resume Builder](https://github.com/nghn0/AI-Powered-Resume-Builder)** | ATS resume generator with templates and PDF export. |
-|  | **[Sky View](https://github.com/nghn0/Sky_View)** | Weather app with WeatherAPI + saved locations in SQLite. |
-|  | **[Cafe Finder (WiFi Café)](https://github.com/nghn0/wifi-cafe)** | Cafe listing app with login, add/edit, and search. |
-|  | **[To-Do List](https://github.com/nghn0/to-do-list)** | Task manager with lists, rich text, and SQLite storage. |
-|  | **[Birthday Reminder](https://github.com/nghn0/birthday_reminder)** | Birthday tracker with automated email reminders. |
-|  | **[Color Extraction](https://github.com/nghn0/Color-Extraction-from-Images)** | Extracts top colors from images using Flask + PIL. |
-| ⚙️ Systems & IoT | **[RFID Smart Lock](https://github.com/nghn0/RFID_smart_locking_system)** | RFID door lock with ESP8266 + online logging. |
-|  | **[MCP Intake & Triage Server](https://github.com/nghn0/mcpserver)** | Dockerized MCP server for routing + severity scoring. |
-|  | **[NBA Stats Scraper](https://github.com/nghn0/NBA-Player-Statistics-Scraper)** | Scrapes live NBA leaderboard stats using Python. |
+<table>
+  <thead>
+    <tr>
+      <th align="center">Category</th>
+      <th>Projects</th>
+      <th>Short Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" rowspan="5"><b>🤖 AI &amp; Computer Vision</b></td>
+      <td><b><a href="https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website">Loomera</a></b></td>
+      <td>AI silk type + texture classification with Grad-CAM + e-commerce.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/Emojify">Emojify</a></b></td>
+      <td>Real-time emotion detection with CNN + ViT and emoji reactions.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/SolarCycle-analysis_and_prediction">SolarCycle Analysis &amp; Prediction</a></b></td>
+      <td>Sunspot cycle analysis and SSN forecasting using LSTM.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/qr_code_detection">QR Code Detection (YOLOv8)</a></b></td>
+      <td>QR detection using YOLOv8 with labeled dataset pipeline.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/Sentient-NPC">Sentient NPC</a></b></td>
+      <td>Offline voice NPC chatbot using STT → Transformer → TTS.</td>
+    </tr>
+
+    <tr>
+      <td align="center" rowspan="6"><b>🌐 Full-Stack Web Apps</b></td>
+      <td><b><a href="https://github.com/nghn0/AI-Powered-Resume-Builder">AI Resume Builder</a></b></td>
+      <td>ATS resume generator with templates and PDF export.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/Sky_View">Sky View</a></b></td>
+      <td>Weather app with WeatherAPI + saved locations in SQLite.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/wifi-cafe">Cafe Finder (WiFi Café)</a></b></td>
+      <td>Cafe listing app with login, add/edit, and search.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/to-do-list">To-Do List</a></b></td>
+      <td>Task manager with lists, rich text, and SQLite storage.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/birthday_reminder">Birthday Reminder</a></b></td>
+      <td>Birthday tracker with automated email reminders.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/Color-Extraction-from-Images">Color Extraction</a></b></td>
+      <td>Extracts top colors from images using Flask + PIL.</td>
+    </tr>
+
+    <tr>
+      <td align="center" rowspan="3"><b>⚙️ Systems &amp; IoT</b></td>
+      <td><b><a href="https://github.com/nghn0/RFID_smart_locking_system">RFID Smart Lock</a></b></td>
+      <td>RFID door lock with ESP8266 + online logging.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/mcpserver">MCP Intake &amp; Triage Server</a></b></td>
+      <td>Dockerized MCP server for routing + severity scoring.</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/nghn0/NBA-Player-Statistics-Scraper">NBA Stats Scraper</a></b></td>
+      <td>Scrapes live NBA leaderboard stats using Python.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 
