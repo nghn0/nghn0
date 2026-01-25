@@ -29,15 +29,6 @@ I am a passionate developer and AI enthusiast focused on building practical appl
 | ⚙️ Systems & IoT | **[RFID Smart Lock](https://github.com/nghn0/RFID_smart_locking_system)** | RFID door lock with ESP8266 + online logging. |
 |  | **[MCP Intake & Triage Server](https://github.com/nghn0/mcpserver)** | Dockerized MCP server for routing + severity scoring. |
 |  | **[NBA Stats Scraper](https://github.com/nghn0/NBA-Player-Statistics-Scraper)** | Scrapes live NBA leaderboard stats using Python. |
-| 🎨 Design / Desktop / Games | **[UI/UX Portfolio](https://nithishgowdahn.my.canva.site/portfolio)** | Personal UI/UX design portfolio built in Canva. |
-|  | **[Typing Speed Test](https://github.com/nghn0/typing-speed-test)** | Typing test with WPM/accuracy tracking using Tkinter. |
-|  | **[Disappearing Typing Test](https://github.com/nghn0/disappearing-typing-speed-test)** | Typing test with inactivity timeout (“death timer”). |
-|  | **[Watermark Creator](https://github.com/nghn0/watermark-creator)** | Add text watermarks to images with preview + save. |
-|  | **[PDF to Audio](https://github.com/nghn0/pdf-to-audiobook)** | Converts PDF text into MP3 using gTTS. |
-|  | **[Tic-Tac-Toe](https://github.com/nghn0/tic-tac-toe)** | Two-player console game with win/draw detection. |
-|  | **[Breakout Game](https://github.com/nghn0/breakout-game)** | Breakout arcade game built using Turtle graphics. |
-|  | **[Space Invaders](https://github.com/nghn0/space_invaders)** | Space shooter arcade game using Turtle graphics. |
-|  | **[Text-To-Morse Converter](https://github.com/nghn0/text-to-morse-code-converter)** | English ↔ Morse converter with validation logic. |
 
 
 
