@@ -19,7 +19,7 @@ I am a passionate developer and AI enthusiast focused on building practical appl
 | :--- | :--- | :--- |
 | **[Loomera](https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website)** | `MobileNetV2` `XAI` | 92% accuracy dual-classification with Grad-CAM visualization. |
 | **[Emojify](https://github.com/nghn0/Emojify)** | `CNN+ViT` `Keras` | Hybrid Transformer architecture for low-latency emotion detection. |
-| **[Smart Lock](https://github.com/nghn0/RFID_smart_locking_system)** | `IoT` `ESP8266` | Full-stack hardware security with PHP/MySQL remote logging. |
+| **[MCP Server](https://github.com/nghn0/mcpserver)** | `Docker` `JSON-RPC` | Scalable triage hub for AI agent tool-use and automated request routing. |
 
 
 
@@ -48,7 +48,7 @@ I am a passionate developer and AI enthusiast focused on building practical appl
 
 
 
-🚀 **[View My Complete Projects Repository](https://github.com/nghn0/MyProjects)**
+🚀 **[More Detailed Description of all my Projects](https://github.com/nghn0/MyProjects)**
 
 ---
 
