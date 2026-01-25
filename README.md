@@ -87,7 +87,7 @@ I am a passionate developer and AI enthusiast focused on building practical appl
 
 
 
-🚀 **[View My Complete Projects Repository]([Paste your main repo link here])**
+🚀 **[View My Complete Projects Repository]((https://github.com/nghn0/MyProjects)])**
 
 ---
 
