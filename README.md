@@ -43,7 +43,6 @@ I am a passionate developer and AI enthusiast focused on building practical appl
       <td><b><a href="https://github.com/nghn0/Sentient-NPC">Sentient NPC</a></b></td>
       <td>Offline voice NPC chatbot using STT → Transformer → TTS.</td>
     </tr>
-
     <tr>
       <td align="center" rowspan="6"><b>🌐 Full-Stack Web Apps</b></td>
       <td><b><a href="https://github.com/nghn0/AI-Powered-Resume-Builder">AI Resume Builder</a></b></td>
@@ -69,7 +68,6 @@ I am a passionate developer and AI enthusiast focused on building practical appl
       <td><b><a href="https://github.com/nghn0/Color-Extraction-from-Images">Color Extraction</a></b></td>
       <td>Extracts top colors from images using Flask + PIL.</td>
     </tr>
-
     <tr>
       <td align="center" rowspan="3"><b>⚙️ Systems &amp; IoT</b></td>
       <td><b><a href="https://github.com/nghn0/RFID_smart_locking_system">RFID Smart Lock</a></b></td>
