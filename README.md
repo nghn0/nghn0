@@ -15,21 +15,11 @@ I am a passionate developer and AI enthusiast focused on building practical appl
 
 ### 🚀 Featured Engineering Projects
 
-#### 🧵 [Loomera — AI Silk Classification & E-Commerce](https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website)
-**Impact:** Developed a dual-output **MobileNetV2** model achieving 92% accuracy in silk classification. Implemented **Explainable AI (XAI)** via Grad-CAM heatmaps to provide transparency in fabric pattern recognition.
-> `TensorFlow` `Flask` `Explainable AI` `Computer Vision`
-
-
-
-#### 🎭 [Emojify — Real-Time Facial Emotion Detection](https://github.com/nghn0/Emojify)
-**Impact:** Engineered a hybrid **CNN + Vision Transformer (ViT)** architecture for high-accuracy, low-latency emotion detection. Optimized the model using Focal Loss and class weighting to handle dataset imbalances.
-> `ViT` `Keras` `OpenCV` `Deep Learning`
-
-
-
-#### 🔐 [RFID Smart Lock System](https://github.com/nghn0/RFID_smart_locking_system)
-**Impact:** Designed an IoT security hub using **ESP8266** and **MFRC522**. Built a full-stack logging pipeline that transmits access data via HTTP to a remote PHP/MySQL dashboard for real-time monitoring.
-> `IoT` `Embedded C++` `PHP` `MySQL`
+| Project | Tech Stack | Key Impact |
+| :--- | :--- | :--- |
+| **[Loomera](https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website)** | `MobileNetV2` `XAI` | 92% accuracy dual-classification with Grad-CAM visualization. |
+| **[Emojify](https://github.com/nghn0/Emojify)** | `CNN+ViT` `Keras` | Hybrid Transformer architecture for low-latency emotion detection. |
+| **[Smart Lock](https://github.com/nghn0/RFID_smart_locking_system)** | `IoT` `ESP8266` | Full-stack hardware security with PHP/MySQL remote logging. |
 
 
 
