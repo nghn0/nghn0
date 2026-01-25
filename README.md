@@ -23,7 +23,7 @@ I am a passionate developer and AI enthusiast focused on building practical appl
   </thead>
   <tbody>
     <tr>
-      <td align="center" rowspan="5"><b>🤖 AI &amp; Computer Vision</b></td>
+      <td align="center" rowspan="5"><b>🤖 AI &amp; ML</b></td>
       <td><b><a href="https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website">Loomera</a></b></td>
       <td>AI silk type + texture classification with Grad-CAM + e-commerce.</td>
     </tr>
