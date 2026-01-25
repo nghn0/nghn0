@@ -13,76 +13,47 @@ I am a passionate developer and AI enthusiast focused on building practical appl
 ### 📂 Featured Portfolio
 > **I'm a firm believer in open-source. You can find all my projects, source code, and detailed documentation right here on my profile.**
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">Category</th>
-      <th>Projects</th>
-      <th>Short Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" rowspan="5"><b>🤖 AI &amp; ML</b></td>
-      <td><b><a href="https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website">Loomera</a></b></td>
-      <td>AI silk type + texture classification with Grad-CAM + e-commerce.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/Emojify">Emojify</a></b></td>
-      <td>Real-time emotion detection with CNN + ViT and emoji reactions.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/SolarCycle-analysis_and_prediction">SolarCycle Analysis &amp; Prediction</a></b></td>
-      <td>Sunspot cycle analysis and SSN forecasting using LSTM.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/qr_code_detection">QR Code Detection (YOLOv8)</a></b></td>
-      <td>QR detection using YOLOv8 with labeled dataset pipeline.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/Sentient-NPC">Sentient NPC</a></b></td>
-      <td>Offline voice NPC chatbot using STT → Transformer → TTS.</td>
-    </tr>
-    <tr>
-      <td align="center" rowspan="6"><b>🌐 Full-Stack Web Apps</b></td>
-      <td><b><a href="https://github.com/nghn0/AI-Powered-Resume-Builder">AI Resume Builder</a></b></td>
-      <td>ATS resume generator with templates and PDF export.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/Sky_View">Sky View</a></b></td>
-      <td>Weather app with WeatherAPI + saved locations in SQLite.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/wifi-cafe">Cafe Finder (WiFi Café)</a></b></td>
-      <td>Cafe listing app with login, add/edit, and search.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/to-do-list">To-Do List</a></b></td>
-      <td>Task manager with lists, rich text, and SQLite storage.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/birthday_reminder">Birthday Reminder</a></b></td>
-      <td>Birthday tracker with automated email reminders.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/Color-Extraction-from-Images">Color Extraction</a></b></td>
-      <td>Extracts top colors from images using Flask + PIL.</td>
-    </tr>
-    <tr>
-      <td align="center" rowspan="3"><b>⚙️ Systems &amp; IoT</b></td>
-      <td><b><a href="https://github.com/nghn0/RFID_smart_locking_system">RFID Smart Lock</a></b></td>
-      <td>RFID door lock with ESP8266 + online logging.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/mcpserver">MCP Intake &amp; Triage Server</a></b></td>
-      <td>Dockerized MCP server for routing + severity scoring.</td>
-    </tr>
-    <tr>
-      <td><b><a href="https://github.com/nghn0/NBA-Player-Statistics-Scraper">NBA Stats Scraper</a></b></td>
-      <td>Scrapes live NBA leaderboard stats using Python.</td>
-    </tr>
-  </tbody>
-</table>
+### 🚀 Featured Engineering Projects
+
+#### 🧵 [Loomera — AI Silk Classification & E-Commerce](https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website)
+**Impact:** Developed a dual-output **MobileNetV2** model achieving 92% accuracy in silk classification. Implemented **Explainable AI (XAI)** via Grad-CAM heatmaps to provide transparency in fabric pattern recognition.
+> `TensorFlow` `Flask` `Explainable AI` `Computer Vision`
+
+
+
+#### 🎭 [Emojify — Real-Time Facial Emotion Detection](https://github.com/nghn0/Emojify)
+**Impact:** Engineered a hybrid **CNN + Vision Transformer (ViT)** architecture for high-accuracy, low-latency emotion detection. Optimized the model using Focal Loss and class weighting to handle dataset imbalances.
+> `ViT` `Keras` `OpenCV` `Deep Learning`
+
+
+
+#### 🔐 [RFID Smart Lock System](https://github.com/nghn0/RFID_smart_locking_system)
+**Impact:** Designed an IoT security hub using **ESP8266** and **MFRC522**. Built a full-stack logging pipeline that transmits access data via HTTP to a remote PHP/MySQL dashboard for real-time monitoring.
+> `IoT` `Embedded C++` `PHP` `MySQL`
+
+
+
+---
+
+### 📂 More Projects & Tools
+<details>
+<summary><b>Click to expand full repository list (10+ Projects)</b></summary>
+<br>
+
+| **Category** | **Project** | **Tech Stack** |
+| :--- | :--- | :--- |
+| **AI & Data** | [SolarCycle Analysis](https://github.com/nghn0/SolarCycle-analysis_and_prediction) | LSTM, Pandas, Scikit-learn |
+| | [QR Detection (YOLOv8)](https://github.com/nghn0/qr_code_detection) | YOLOv8, Label Studio, PyTorch |
+| | [Sentient NPC](https://github.com/nghn0/Sentient-NPC) | Transformers, STT/TTS, Python |
+| **Web Apps** | [AI Resume Builder](https://github.com/nghn0/AI-Powered-Resume-Builder) | GPT-4 API, Flask, Bootstrap |
+| | [Sky View (Weather)](https://github.com/nghn0/Sky_View) | WeatherAPI, SQLite, Flask |
+| | [WiFi Café Finder](https://github.com/nghn0/wifi-cafe) | Flask-SQLAlchemy, Bootstrap |
+| | [Birthday Reminder](https://github.com/nghn0/birthday_reminder) | SMTP, Flask, SQLite |
+| | [Color Extraction](https://github.com/nghn0/Color-Extraction-from-Images) | Flask, PIL, NumPy |
+| **Systems** | [MCP Triage Server](https://github.com/nghn0/mcpserver) | Docker, Node.js, JSON-RPC |
+| | [NBA Stats Scraper](https://github.com/nghn0/NBA-Player-Statistics-Scraper) | BeautifulSoup, Requests |
+
+</details>
 
 
 
