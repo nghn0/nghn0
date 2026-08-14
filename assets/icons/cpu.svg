@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="22" viewBox="0 0 26 22" fill="none"><g transform="translate(0,6) scale(0.5333333333)">
+  <rect x="5" y="5" width="20" height="20" rx="2" stroke="#ffffff" stroke-width="2"/>
+  <rect x="10" y="10" width="10" height="10" rx="1" stroke="#ffffff" stroke-width="2"/>
+  <path d="M15 25 L15 26.5" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M15 3.5 L15 5" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M21.25 25 L21.25 26.5" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M21.25 3.5 L21.25 5" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M8.75 25 L8.75 26.5" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M8.75 3.5 L8.75 5" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M2.5 14 L5 14" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M2.5 20.25 L5 20.25" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M2.5 7.75 L5 7.75" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M25 14 L27.5 14" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M25 20.25 L27.5 20.25" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M25 7.75 L27.5 7.75" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+</g></svg>

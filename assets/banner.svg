@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="350" viewBox="0 0 1000 350" fill="none">
+  <rect width="1000" height="350" fill="#000000"/>
+
+  <text x="500" y="176" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="72" font-weight="700" letter-spacing="6" fill="#ffffff">NITHISH GOWDA</text>
+
+  <text x="500" y="232" text-anchor="middle" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="500" letter-spacing="3.5" fill="#ffffff">AI ENGINEER + FULL STACK DEVELOPER + ML ENTHUSIAST</text>
+
+  <g stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" opacity="0.9">
+    <circle cx="410" cy="292" r="7"/>
+    <path d="M398 312 C398 304 403.5 300 410 300 C416.5 300 422 304 422 312"/>
+    <rect x="475" y="283" width="16" height="16" rx="2"/>
+    <path d="M483 293 V300 M475 289 H482 M490 291 V296"/>
+    <circle cx="548" cy="292" r="8"/>
+    <path d="M548 296 C552 292 555 288 555 283 M548 296 C544 292 541 288 541 283 M548 296 V303"/>
+    <rect x="575" y="284" width="12" height="14" rx="2"/>
+    <path d="M578 288 H584 V296"/>
+    <circle cx="628" cy="290" r="4"/>
+    <path d="M636 292 C634 285 630 282 622 282 C614 282 610 285 608 292 L608 300"/>
+    <path d="M622 282 L622 276 C622 274 623 273 625 273 L629 273 C631 273 632 274 632 276 L632 282"/>
+    <path d="M572 304 H588 M590 304 C594 304 596 306 596 309 V312 H584"/>
+  </g>
+</svg>

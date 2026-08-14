@@ -1,93 +1,141 @@
-# Hi there, I'm Nithish Gowda H N! 👋
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Education-RV%20University-red?style=flat-square" alt="RV University">
-  <img src="https://img.shields.io/badge/3rd--Year-B.Tech(Hons.)%20CSE%20(AI%20%26%20ML)-blue?style=flat-square" alt="Education">
-  <img src="https://img.shields.io/badge/Focus-Real--World%20AI%20%26%20Full--Stack-green?style=flat-square" alt="Focus">
-</p>
-
-I am a passionate developer and AI enthusiast focused on building practical applications with clean UI and robust backends. I specialize in Python-driven solutions, ranging from database-integrated web apps to advanced Deep Learning models.
-
----
-
-## 📂 Featured Portfolio
-
-> **I'm a firm believer in open-source. You can find all my projects, source code, and detailed documentation right here on my profile.**
-
-## 🚀 Featured Engineering Projects
-
-| Project | Tech Stack | Key Impact |
-| :--- | :--- | :--- |
-| **[Loomera](https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website)** | `MobileNetV2` `XAI` | 92% accuracy dual-classification with Grad-CAM visualization. |
-| **[Emojify](https://github.com/nghn0/Emojify)** | `CNN+ViT` `Keras` | Hybrid Transformer architecture for low-latency emotion detection. |
-| **[MCP Server](https://github.com/nghn0/mcpserver)** | `Docker` `JSON-RPC` | Scalable triage hub for AI agent tool-use and automated request routing. |
-
----
-
-## 📂 More Projects & Tools
-
-<details>
-<summary><b>Click to expand full repository list (10+ Projects)</b></summary>
-
+<div align="center" style="text-align:center;width:1000px;max-width:100%;background:#000000;color:#ffffff;font-family:Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;padding-bottom:44px;">
+<!-- BANNER -->
+<img src="assets/banner.png" width="1000" alt="NITHISH GOWDA — AI ENGINEER + FULL STACK DEVELOPER + ML ENTHUSIAST" style="max-width:100%;">
+<!-- CONTACT BUTTONS -->
+<div align="center" style="text-align:center;padding:21px 0 21px 0;">
+  <a href="https://www.linkedin.com/in/nithish-gowda/" target="_blank"><img src="assets/buttons/linkedin.svg" width="148" height="46" alt="LINKEDIN"></a>
+  <a href="https://github.com/nghn0" target="_blank"><img src="assets/buttons/resume.svg" width="148" height="46" alt="RESUME"></a>
+  <a href="https://leetcode.com/u/nghn0/" target="_blank"><img src="assets/buttons/leetcode.svg" width="148" height="46" alt="LEETCODE"></a>
+  <a href="https://github.com/nghn0" target="_blank"><img src="assets/buttons/portfolio.svg" width="148" height="46" alt="PORTFOLIO"></a>
+  <a href="mailto:nithish.gowda@gmail.com" target="_blank"><img src="assets/buttons/email.svg" width="148" height="46" alt="EMAIL"></a>
+</div>
 <br>
-
-| Category | Project | Tech Stack |
-| :--- | :--- | :--- |
-| **AI & Data** | [SolarCycle Analysis](https://github.com/nghn0/SolarCycle-analysis_and_prediction) | LSTM, Pandas, Scikit-learn |
-| | [QR Detection (YOLOv8)](https://github.com/nghn0/qr_code_detection) | YOLOv8, Label Studio, PyTorch |
-| | [Sentient NPC](https://github.com/nghn0/Sentient-NPC) | Transformers, STT/TTS, Python |
-| **Web Apps** | [AI Resume Builder](https://github.com/nghn0/AI-Powered-Resume-Builder) | GPT-4 API, Flask, Bootstrap |
-| | [Sky View (Weather)](https://github.com/nghn0/Sky_View) | WeatherAPI, SQLite, Flask |
-| | [WiFi Café Finder](https://github.com/nghn0/wifi-cafe) | Flask-SQLAlchemy, Bootstrap |
-| | [Birthday Reminder](https://github.com/nghn0/birthday_reminder) | SMTP, Flask, SQLite |
-| | [Color Extraction](https://github.com/nghn0/Color-Extraction-from-Images) | Flask, PIL, NumPy |
-| **Systems** | [MCP Triage Server](https://github.com/nghn0/mcpserver) | Docker, Node.js, JSON-RPC |
-| | [NBA Stats Scraper](https://github.com/nghn0/NBA-Player-Statistics-Scraper) | BeautifulSoup, Requests |
-
-</details>
-
-### 🚀 [More Detailed Description of all my Projects](https://github.com/nghn0/MyProjects)
-
----
-
-# ⚡ Tech Stack
-
-## Languages & Web Development
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-## AI, Machine Learning & Data
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
----
-
-# 🤝 Let's Connect!
-
-I'm always open to discussing AI/ML projects, full-stack collaborations, or tech opportunities.
-
-<p align="left">
-  <a href="https://github.com/nghn0" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/nithishgowdahn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:nithi9905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<!-- ABOUT -->
+<div align="center" style="text-align:center;padding-top:50px;">
+  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0 0 0 0;"><img src="assets/icons/about.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">About Me</h3>
+</div>
+<p align="center" style="text-align:center;font-size:16px;font-weight:400;color:#ffffff;line-height:1.6;padding:16px 24px 0 24px;max-width:940px;margin:0 auto;">
+I teach machines to do the impossible — just to see if they can. I've made AI argue back, read faces, predict the sun's mood swings, and turned a model into an IEEE paper while I was at it. I've also made contracts sign themselves on the blockchain. If a problem looks unsolvable, that's my favourite kind. Powered by espresso, wired by default.
 </p>
-
----
-
-> *"Building the future, one line of code at a time."*
+<br>
+<!-- TECHNOLOGIES -->
+<div align="center" style="text-align:center;padding-top:44px;">
+  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/cpu.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">Technologies</h3>
+</div>
+<div align="center" style="text-align:center;padding-top:20px;">
+  <p align="left" style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">AI, Machine Learning &amp; Data</p>
+  <img src="assets/tech/tensorflow.svg" width="213" height="32" alt="TensorFlow / Keras">
+  <img src="assets/tech/pytorch.svg" width="127" height="32" alt="PyTorch">
+  <img src="assets/tech/opencv.svg" width="125" height="32" alt="OpenCV">
+  <img src="assets/tech/postgresql.svg" width="155" height="32" alt="PostgreSQL">
+</div>
+<div align="center" style="text-align:center;padding-top:20px;">
+  <p align="left" style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">Languages &amp; Web Development</p>
+  <img src="assets/tech/python.svg" width="118" height="32" alt="Python">
+  <img src="assets/tech/nextjs.svg" width="117" height="32" alt="Next.js">
+  <img src="assets/tech/nodejs.svg" width="122" height="32" alt="Node.js">
+  <img src="assets/tech/express.svg" width="125" height="32" alt="Express">
+  <img src="assets/tech/flask.svg" width="105" height="32" alt="Flask">
+</div>
+<div align="center" style="text-align:center;padding-top:20px;">
+  <p align="left" style="font-size:17px;font-weight:600;color:#ffffff;margin:0 0 16px 0;">Databases, DevOps &amp; Blockchain</p>
+  <img src="assets/tech/mysql.svg" width="117" height="32" alt="MySQL">
+  <img src="assets/tech/docker.svg" width="117" height="32" alt="Docker">
+  <img src="assets/tech/solidity.svg" width="123" height="32" alt="Solidity">
+  <img src="assets/tech/ethers.svg" width="132" height="32" alt="Ethers.js">
+  <img src="assets/tech/pandas.svg" width="194" height="32" alt="pandas-numpy">
+  <img src="assets/tech/git.svg" width="161" height="32" alt="Git &amp; GitHub">
+</div>
+<br>
+<!-- PROJECTS -->
+<div align="center" style="text-align:center;padding-top:44px;">
+  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/folder.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">Projects</h3>
+</div>
+<p align="center" style="text-align:center;font-size:17px;font-weight:600;color:#ffffff;padding-top:24px;margin:0;">Featured Projects</p>
+<div style="padding:0 30px;">
+  <table style="width:100%;max-width:940px;margin:16px auto 0 auto;border-collapse:collapse;color:#ffffff;background:#000000;">
+    <thead>
+      <tr>
+        <th style="text-align:left;font-size:11.5px;font-weight:700;letter-spacing:1px;color:#ffffff;padding:10px 16px 10px 0;width:32%;border-bottom:1px solid #ffffff;">PROJECT</th>
+        <th style="text-align:left;font-size:11.5px;font-weight:700;letter-spacing:1px;color:#ffffff;padding:10px 16px;width:34%;border-bottom:1px solid #ffffff;">TECH STACK</th>
+        <th style="text-align:left;font-size:11.5px;font-weight:700;letter-spacing:1px;color:#ffffff;padding:10px 16px;width:34%;border-bottom:1px solid #ffffff;">KEY IMPACTS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Digital Contract Platform <a href="https://github.com/nghn0" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+        <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Next.js · Express · Python</td>
+        <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">AI legal-risk · on-chain verification · gRPC</td>
+      </tr>
+      <tr>
+        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Loomera <a href="https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+        <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">TensorFlow · MobileNetV2 · Flask</td>
+        <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">92%+ accuracy · Grad-CAM XAI · smart recs</td>
+      </tr>
+      <tr>
+        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">AI Resume Builder <a href="https://github.com/nghn0/AI-Powered-Resume-Builder" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+        <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Node.js · Express · MongoDB</td>
+        <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Prompt → ATS-ready PDF</td>
+      </tr>
+      <tr>
+        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Sentient NPC <a href="https://github.com/nghn0/Sentient-NPC" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+        <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Python · Transformer · Vosk</td>
+        <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Fully offline · sub-245ms latency</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<details>
+  <summary align="center" style="list-style:none;text-align:center;padding-top:24px;cursor:pointer;outline:none;">
+    <span style="font-size:17px;font-weight:600;color:#ffffff;vertical-align:middle;">More Projects</span>
+  </summary>
+  <div style="padding:16px 30px 0 30px;">
+    <table style="width:100%;max-width:940px;margin:0 auto;border-collapse:collapse;color:#ffffff;background:#000000;">
+      <thead>
+        <tr>
+          <th style="text-align:left;font-size:11.5px;font-weight:700;letter-spacing:1px;color:#ffffff;padding:10px 16px 10px 0;width:32%;border-bottom:1px solid #ffffff;">PROJECT</th>
+          <th style="text-align:left;font-size:11.5px;font-weight:700;letter-spacing:1px;color:#ffffff;padding:10px 16px;width:34%;border-bottom:1px solid #ffffff;">TECH STACK</th>
+          <th style="text-align:left;font-size:11.5px;font-weight:700;letter-spacing:1px;color:#ffffff;padding:10px 16px;width:34%;border-bottom:1px solid #ffffff;">KEY IMPACTS</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">SolarCycle Analysis <a href="https://github.com/nghn0/SolarCycle-analysis_and_prediction" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+          <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">LSTM · TensorFlow · Pandas · NumPy</td>
+          <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">SSN forecast · LSTM MAE 13.29</td>
+        </tr>
+        <tr>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Emojify <a href="https://github.com/nghn0/Emojify" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+          <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">TensorFlow · Keras · OpenCV · CNN · ViT</td>
+          <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Real-time emotion · 3 architectures · XAI</td>
+        </tr>
+        <tr>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">QR Code Detection <a href="https://github.com/nghn0/qr_code_detection" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+          <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">YOLOv8 · Ultralytics · Label Studio · OpenCV</td>
+          <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">50-epoch training · JSON outputs</td>
+        </tr>
+        <tr>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">MCP Server <a href="https://github.com/nghn0/mcpserver" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+          <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">FastMCP · Docker · Gemini · JSON-RPC</td>
+          <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Multi-domain routing · severity scoring</td>
+        </tr>
+        <tr>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Smart Lock System <a href="https://github.com/nghn0/RFID_smart_locking_system" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+          <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">NodeMCU ESP8266 · MFRC522 · PHP · MySQL</td>
+          <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">RFID auth · remote logging · IoT</td>
+        </tr>
+        <tr>
+          <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Sky View <a href="https://github.com/nghn0/Sky_View" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+          <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Flask · WeatherAPI · SQLite</td>
+          <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Real-time weather · saved cities</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</details>
+<!-- STATISTICS -->
+<div align="center" style="text-align:center;padding-top:44px;">
+  <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0 0 24px 0;"><img src="assets/icons/chart.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">Statistics</h3>
+  <img src="assets/stats-card.svg" width="460" height="180" alt="Nithish's GitHub Stats — 128 stars, 1,587 commits, 67 PRs, 42 repos" style="max-width:100%;">
+</div>
+</div>
