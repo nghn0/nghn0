@@ -2,7 +2,7 @@
 <!-- BANNER -->
 <img src="assets/banner.png" width="1000" alt="NITHISH GOWDA — AI ENGINEER + FULL STACK DEVELOPER + ML ENTHUSIAST" style="max-width:100%;">
 <!-- CONTACT BUTTONS -->
-<div align="center" style="text-align:center;padding:21px 0 21px 0;">
+<div align="center" style="text-align:center;padding:38px 0 28px 0;">
   <a href="https://www.linkedin.com/in/nithish-gowda/" target="_blank"><img src="assets/buttons/linkedin.svg" width="148" height="46" alt="LINKEDIN"></a>
   <a href="https://github.com/nghn0" target="_blank"><img src="assets/buttons/resume.svg" width="148" height="46" alt="RESUME"></a>
   <a href="https://leetcode.com/u/nghn0/" target="_blank"><img src="assets/buttons/leetcode.svg" width="148" height="46" alt="LEETCODE"></a>
@@ -51,7 +51,7 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
 <div align="center" style="text-align:center;padding-top:44px;">
   <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0;"><img src="assets/icons/folder.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">Projects</h3>
 </div>
-<p align="center" style="text-align:center;font-size:17px;font-weight:600;color:#ffffff;padding-top:24px;margin:0;">Featured Projects</p>
+<p align="center" style="text-align:center;font-size:17px;font-weight:600;color:#ffffff;padding-top:40px;margin:0;">Featured Projects</p>
 <div style="padding:0 30px;">
   <table style="width:100%;max-width:940px;margin:16px auto 0 auto;border-collapse:collapse;color:#ffffff;background:#000000;">
     <thead>
@@ -134,7 +134,7 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
   </div>
 </details>
 <!-- STATISTICS -->
-<div align="center" style="text-align:center;padding-top:44px;">
+<div align="center" style="text-align:center;padding-top:72px;">
   <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0 0 24px 0;"><img src="assets/icons/chart.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">Statistics</h3>
   <img src="assets/stats-card.svg" width="460" height="180" alt="Nithish's GitHub Stats — 128 stars, 1,587 commits, 67 PRs, 42 repos" style="max-width:100%;">
 </div>
