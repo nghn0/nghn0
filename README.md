@@ -134,7 +134,7 @@ I teach machines to do the impossible — just to see if they can. I've made AI 
   </div>
 </details>
 <!-- STATISTICS -->
-<div align="center" style="text-align:center;padding-top:72px;">
+<div align="center" style="text-align:center;padding-top:110px;">
   <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0 0 24px 0;"><img src="assets/icons/chart.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">Statistics</h3>
   <img src="assets/stats-card.svg" width="460" height="180" alt="Nithish's GitHub Stats — 128 stars, 1,587 commits, 67 PRs, 42 repos" style="max-width:100%;">
 </div>
