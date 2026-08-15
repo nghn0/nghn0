@@ -15,7 +15,7 @@
   <h3 style="font-size:24px;font-weight:700;color:#ffffff;margin:0 0 0 0;"><img src="assets/icons/about.svg" width="26" height="22" alt="" style="vertical-align:middle;margin-right:12px;">About Me</h3>
 </div>
 <p align="center" style="text-align:center;font-size:16px;font-weight:400;color:#ffffff;line-height:1.6;padding:16px 24px 0 24px;max-width:940px;margin:0 auto;">
-I teach machines to do the impossible — just to see if they can. I've made AI argue back, read faces, predict the sun's mood swings, and turned a model into an IEEE paper while I was at it. I've also made contracts sign themselves on the blockchain. If a problem looks unsolvable, that's my favourite kind. Powered by espresso, wired by default.
+I teach machines to do things they probably shouldn't — mostly to see what happens. I've made models read faces, predict the Sun's mood swings, argue with humans, and turn experiments into IEEE research. I build intelligent systems, put contracts on the blockchain, and love breaking systems just enough to understand how to secure them. Powered by espresso, wired by default.
 </p>
 <br>
 <!-- TECHNOLOGIES -->
