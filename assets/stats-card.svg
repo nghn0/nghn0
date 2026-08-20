@@ -18,7 +18,7 @@
   <!-- Commits -->
   <text class="t" x="28" y="104" font-size="16" fill="#ffffff">⟳</text>
   <text class="t" x="52" y="104" font-size="14" fill="#c9d1d9">Total Commits</text>
-  <text class="t" x="240" y="105" font-size="15" fill="#ffffff">337</text>
+  <text class="t" x="240" y="105" font-size="15" fill="#ffffff">338</text>
 
   <!-- PRs -->
   <text class="t" x="28" y="130" font-size="16" fill="#ffffff">⇄</text>
