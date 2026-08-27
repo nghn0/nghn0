@@ -67,6 +67,11 @@ I teach machines to do things they probably shouldn't — mostly to see what hap
         <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">Next.js · Express · Python</td>
         <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">AI legal-risk · on-chain verification · gRPC</td>
       </tr>
+       <tr>
+        <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">REDCON — AI Red Team Platform <a href="https://github.com/nghn0/redcon" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
+        <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">React · Vite · FastAPI · Python · Docker · Ollama</td>
+        <td style="padding:14px 16px;font-size:13.5px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">AI pentesting · scope enforcement · sandboxing · automated recon</td>
+      </tr>
       <tr>
         <td style="padding:14px 16px 14px 0;font-size:15.5px;font-weight:600;border-bottom:1px solid #ffffff;">Loomera <a href="https://github.com/nghn0/AI-Based-Silk-Fabric-Type-Texture-Classification-E-Commerce-Website" target="_blank" style="text-decoration:none;"><img src="assets/icons/link.svg" width="22" height="14" alt=""></a></td>
         <td style="padding:14px 16px;font-size:14px;font-weight:500;color:#c9d1d9;border-bottom:1px solid #ffffff;">TensorFlow · MobileNetV2 · Flask</td>
