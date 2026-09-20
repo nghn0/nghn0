@@ -13,12 +13,12 @@
   <!-- Stars -->
   <text class="t" x="28" y="78" font-size="16" fill="#ffffff">★</text>
   <text class="t" x="52" y="78" font-size="14" fill="#c9d1d9">Total Stars Earned</text>
-  <text class="t" x="240" y="79" font-size="15" fill="#ffffff">1</text>
+  <text class="t" x="240" y="79" font-size="15" fill="#ffffff">2</text>
 
   <!-- Commits -->
   <text class="t" x="28" y="104" font-size="16" fill="#ffffff">⟳</text>
   <text class="t" x="52" y="104" font-size="14" fill="#c9d1d9">Total Commits</text>
-  <text class="t" x="240" y="105" font-size="15" fill="#ffffff">396</text>
+  <text class="t" x="240" y="105" font-size="15" fill="#ffffff">397</text>
 
   <!-- PRs -->
   <text class="t" x="28" y="130" font-size="16" fill="#ffffff">⇄</text>
